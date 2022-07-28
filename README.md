@@ -1,9 +1,10 @@
 ## Olá! Eu sou o Vitor Negromonte
 #### 📚 Atualmente estudando:
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white)]() 
-[![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white)]() 
-[![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white)]()
+[![R](https://img.shields.io/badge/R-20232A?style=for-the-badge&logo=R&logoColor=white)]()
+[![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=C&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=Cplusplus&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python&logoColor=white)]()
 
 ## 
 <div align="left">
