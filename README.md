@@ -2,9 +2,11 @@
 #### 📚 Atualmente estudando:
 
 [![R](https://img.shields.io/badge/R-20232A?style=for-the-badge&logo=R&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python&logoColor=white)]()
+<!--
 [![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=C&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=Cplusplus&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python&logoColor=white)]()
+-->
 
 ## 
 <div align="left">
