@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vitor Negromonte
+<!-- ## Olá! Eu sou o Vitor Negromonte -->
 #### 📚 Atualmente estudando:
 
 [![R](https://img.shields.io/badge/R-20232A?style=for-the-badge&logo=R&logoColor=white)]()
