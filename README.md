@@ -1,5 +1,8 @@
 #### 📚 Atualmente estudando:
-[![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=R&logoColor=0D1117&labelColor=white)]()
+
+[![R](https://img.shields.io/badge/R-20232A?style=for-the-badge&logo=R&logoColor=20232A&labelColor=white)]()
+
+<img src="https://i.giphy.com/media/S3Pe5NZqgmE8Tl3NI5/giphy-downsized-large.gif" width="200"/>
 
 <!--
 
