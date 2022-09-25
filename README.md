@@ -2,7 +2,7 @@
 
 ### Olá! 
 - 🎓 Graduando em Estatística na UFPE
-- 📚 Atualmente estudando: [R]([https://](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=r&sort=)) <!--e [Python](https://)-->
+- 📚 Atualmente estudando: [R](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=r&sort=)) <!--e [Python](https://)-->
 ##
 <div align='center'>
   <a href="https://github.com/vitornegromonte">
