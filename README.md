@@ -1,8 +1,8 @@
 <div style='font-size: 15px'>
 
 ### Olá! 
-- 🎓 Graduando em Estatística na UFPE
-- 📚 Atualmente estudando: [R](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=r&sort=) <!--e [Python](https://)-->
+- 🎓 Statistics undergraduate student at Federal University of Pernambuco
+- 📚 Currently studying: [R](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=r&sort=) <!--e [Python](https://)-->
 ##
 <div align='center'>
 <a href="https://github.com/vitornegromonte">
@@ -20,7 +20,6 @@
 #### Linguagens de programação: 
 [![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=Python&logoColor=0D1117&labelColor=white)]()
 [![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=R&logoColor=0D1117&labelColor=white)]()
-[![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=C&logoColor=0D1117&labelColor=white)]()
 
 #### Sistema operacional
 [![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=0d1117&labelColor=white)]()
