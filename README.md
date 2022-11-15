@@ -6,16 +6,17 @@
 - 🌱 Currently studying: [R](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=r&sort=)
 
 </div>
-<!--
-<details><summary> 📫 Reach me</summary>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=white)]()
-[![E-mail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=white)]()
-[![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=0d1117&labelColor=white)]()
-[![ResearchGate](https://img.shields.io/badge/Researchgate-0D1117?style=for-the-badge&logo=researchgate&logoColor=0d1117&labelColor=white)]()
-[![Academia](https://img.shields.io/badge/Academia-0D1117?style=for-the-badge&logo=academia&logoColor=0d1117&labelColor=white)]()
-</details>
+<details><summary> 📫 How to reach me</summary>
+  
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitornegromonte/)
+<!-- [![E-mail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=white)]()
+[![ResearchGate](https://img.shields.io/badge/Researchgate-0D1117?style=for-the-badge&logo=researchgate&logoColor=white)]()
+[![Academia](https://img.shields.io/badge/Academia-0D1117?style=for-the-badge&logo=academia&logoColor=white)]()
 -->
+</details> 
 <details> <summary> 📊 GitHub Stats </summary>
 <div align='center'>
 <a href="https://github.com/vitornegromonte">
