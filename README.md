@@ -9,10 +9,9 @@
 
 <details><summary> 📫 How to reach me</summary>
   
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitornegromonte/)
 [![E-mail](https://img.shields.io/badge/gmail-0D1117?style=for-the-badge&logo=gmail)](mailto:vitor.negromonte@ufpe.br)
-[![Spotify](https://img.shields.io/badge/spotify-0D1117?style=for-the-badge&logo=spotify)]()
+[![Spotify](https://img.shields.io/badge/spotify-0D1117?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/3we4r3q97939o441a018mttu6)
 
 </details> 
 <details>
@@ -21,10 +20,10 @@
 #### Programming languages:
 [![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python)](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=python&sort=)
 [![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r)](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=r&sort=)
-[![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=Linux)]()
-[![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github)]()
-[![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)]()
-[![Jupyter](https://img.shields.io/badge/jupyter-0D1117?style=for-the-badge&logo=Jupyter)]()
+![Linux](https://img.shields.io/badge/linux-0D1117?style=for-the-badge&logo=linux)
+[![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github)](https://github.com/vitornegromonte)
+![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)
+![Jupyter](https://img.shields.io/badge/jupyter-0D1117?style=for-the-badge&logo=Jupyter)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 </details>
 <details> <summary> 📊 GitHub Stats </summary>
