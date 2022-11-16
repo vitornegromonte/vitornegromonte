@@ -17,7 +17,6 @@
 <details>
 <summary>👨‍💻 Technologies and tools</summary>
 
-#### Programming languages:
 [![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python)](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=python&sort=stargazers)
 [![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r)](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=r&sort=stargazers)
 [![Linux](https://img.shields.io/badge/linux-0D1117?style=for-the-badge&logo=linux)](https://github.com/vitornegromonte/linuxsetup)
