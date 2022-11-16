@@ -20,7 +20,7 @@
 #### Programming languages:
 [![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python)](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=python&sort=stargazers)
 [![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r)](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=r&sort=stargazers)
-![Linux](https://img.shields.io/badge/linux-0D1117?style=for-the-badge&logo=linux)
+[![Linux](https://img.shields.io/badge/linux-0D1117?style=for-the-badge&logo=linux)](https://github.com/vitornegromonte/linuxsetup)
 [![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github)](https://github.com/vitornegromonte)
 ![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)
 ![Jupyter](https://img.shields.io/badge/jupyter-0D1117?style=for-the-badge&logo=Jupyter)
