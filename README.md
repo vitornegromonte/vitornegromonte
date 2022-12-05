@@ -3,7 +3,7 @@
 
 - 😄 Pronouns: he/him
 - 🎓 Statistics undergraduate student at Federal University of Pernambuco(UFPE)
-- 🌱 Currently studying: [R](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=r&sort=stargazers)
+- 🌱 Currently studying: [Python](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=python&sort=stargazers)
 
 </div>
 
