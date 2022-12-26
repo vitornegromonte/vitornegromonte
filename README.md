@@ -3,7 +3,7 @@
 
 - 😄 Pronouns: he/him
 - 🎓 Statistics undergraduate student at Federal University of Pernambuco(UFPE)
-- 🌱 Currently studying: [Python](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=python&sort=stargazers)
+- 🌱 Currently studying: [Python](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=python&sort=stargazers) and [Jupyter](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=jupyter+notebook&sort=stargazers)
 
 </div>
 
@@ -22,7 +22,7 @@
 [![Linux](https://img.shields.io/badge/linux-0D1117?style=for-the-badge&logo=linux)](https://github.com/vitornegromonte/linuxsetup)
 [![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github)](https://github.com/vitornegromonte)
 ![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)
-![Jupyter](https://img.shields.io/badge/jupyter-0D1117?style=for-the-badge&logo=Jupyter)
+[![Jupyter](https://img.shields.io/badge/jupyter-0D1117?style=for-the-badge&logo=Jupyter)](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=jupyter+notebook&sort=stargazers)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 </details>
 <details> <summary> 📊 GitHub Stats </summary>
