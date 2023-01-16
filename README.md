@@ -28,8 +28,12 @@
 <details> <summary> 📊 GitHub Stats </summary>
 <div align='center'>
 <a href="https://github.com/vitornegromonte">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitornegromonte&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+  <!--
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitornegromonte&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitornegromonte&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
+-->
 </a>
 </details>
 
