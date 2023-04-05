@@ -25,7 +25,7 @@
 [![Jupyter](https://img.shields.io/badge/jupyter-0D1117?style=for-the-badge&logo=Jupyter)](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=jupyter+notebook&sort=stargazers)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 </details>
-<!--
+
 <details> <summary> 📊 GitHub Stats </summary>
 <div align='center'>
 <a href="https://github.com/vitornegromonte">
@@ -35,7 +35,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitornegromonte&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
 </a>
 </details>
--->
+
 
 </div>
 
