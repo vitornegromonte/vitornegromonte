@@ -11,7 +11,6 @@
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitornegromonte/)
 [![E-mail](https://img.shields.io/badge/gmail-0D1117?style=for-the-badge&logo=gmail)](mailto:vitor.negromonte@ufpe.br)
-[![Spotify](https://img.shields.io/badge/spotify-0D1117?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/3we4r3q97939o441a018mttu6)
 
 </details> 
 <details>
