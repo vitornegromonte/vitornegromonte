@@ -1,44 +1,40 @@
-### Hi, I'm Vitor
-<div style = 'font-size:18px'>
+### Hi, I'm Vitor!
+
+<div style = 'font-size: 18px'>
 
 - 😄 Pronouns: he/him
-- 🎓 Statistics undergraduate student at Federal University of Pernambuco(UFPE)
-- 🌱 Currently studying: [Python](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=python&sort=stargazers) and [Jupyter](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=jupyter+notebook&sort=stargazers)
+- 🎓 Statistics undergraduate student at Federal University of Pernambuco (UFPE)
+- 🔬 Data Science Enthusiast
+-  🧠 Researcher in neurodiversity in the context of software engineering @ [SCIoT-UFPE]((https://cin.ufpe.br/~sciot))
 
 </div>
+
+<div>
 
 <details><summary> 📫 How to reach me</summary>
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitornegromonte/)
-[![E-mail](https://img.shields.io/badge/gmail-0D1117?style=for-the-badge&logo=gmail)](mailto:vitor.negromonte@ufpe.br)
+[![E-mail](https://img.shields.io/badge/gmail-0D1117?style=for-the-badge&logo=gmail)](mailto:vnco@cin.ufpe.br)
 
-</details> 
+[More](cin.ufpe.br/~vnco)
+</details>
+
 <details>
 <summary>👨‍💻 Technologies and tools</summary>
 
 [![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python)](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=python&sort=stargazers)
 [![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r)](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=r&sort=stargazers)
-[![Linux](https://img.shields.io/badge/linux-0D1117?style=for-the-badge&logo=linux)](https://github.com/vitornegromonte/linuxsetup)
 [![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github)](https://github.com/vitornegromonte)
 ![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)
 [![Jupyter](https://img.shields.io/badge/jupyter-0D1117?style=for-the-badge&logo=Jupyter)](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=jupyter+notebook&sort=stargazers)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 </details>
-
 <details> <summary> 📊 GitHub Stats </summary>
 <div align='center'>
 <a href="https://github.com/vitornegromonte">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitornegromonte&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitornegromonte&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitornegromonte&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=vitornegromonte&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitornegromonte&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
 </a>
 </details>
-
-
 </div>
-
-<a href="https://github.com/vitornegromonte">
-  
-  ![Snake animation](https://github.com/vitornegromonte/vitornegromonte/blob/output/github-contribution-grid-snake.svg)
-</a>
