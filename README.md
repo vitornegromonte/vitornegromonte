@@ -15,8 +15,8 @@
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitornegromonte/)
 [![E-mail](https://img.shields.io/badge/gmail-0D1117?style=for-the-badge&logo=gmail)](mailto:vnco@cin.ufpe.br)
+[![More info](https://img.shields.io/badge/more_links-0D1117?style=for-the-badge&logo=about.me&logoColor=white)](https://www.cin.ufpe.br/~vnco/)
 
-[More](cin.ufpe.br/~vnco)
 </details>
 
 <details>
