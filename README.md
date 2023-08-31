@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 - 🎓 Statistics undergraduate student at Federal University of Pernambuco (UFPE)
 - 🔬 Data Science Enthusiast
--  🧠 Researcher in neurodiversity in the context of software engineering
+-  🧠 Researcher in neurodiversity and accessibility
 
 </div>
 
@@ -13,7 +13,7 @@
 
 <details><summary> 📫 How to reach me</summary>
   
-[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitornegromonte/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vnco/)
 [![E-mail](https://img.shields.io/badge/gmail-0D1117?style=for-the-badge&logo=gmail)](mailto:vnco@cin.ufpe.br)
 [![More info](https://img.shields.io/badge/more_links-0D1117?style=for-the-badge&logo=about.me&logoColor=white)](https://www.cin.ufpe.br/~vnco/)
 
@@ -27,7 +27,8 @@
 [![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github)](https://github.com/vitornegromonte)
 ![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)
 [![Jupyter](https://img.shields.io/badge/jupyter-0D1117?style=for-the-badge&logo=Jupyter)](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=jupyter+notebook&sort=stargazers)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)](https://gist.github.com/vitornegromonte/dbc965d65b7602b564487b2822353f9b)
+
 </details>
 <details> <summary> 📊 GitHub Stats </summary>
 <div align='center'>
