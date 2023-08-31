@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 - 🎓 Statistics undergraduate student at Federal University of Pernambuco (UFPE)
 - 🔬 Data Science Enthusiast
--  🧠 Researcher in neurodiversity and accessibility
+-  🧠 Researcher in neurodiversity and accessibility @ [SCIOT-UFPE](https://www.cin.ufpe.br/~sciot/)
 
 </div>
 
