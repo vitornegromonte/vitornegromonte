@@ -29,6 +29,17 @@
 ![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)
 [![Jupyter](https://img.shields.io/badge/jupyter-0D1117?style=for-the-badge&logo=Jupyter)](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=jupyter+notebook&sort=stargazers)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)](https://gist.github.com/vitornegromonte/dbc965d65b7602b564487b2822353f9b)
+![NumPy](http://img.shields.io/badge/numpy-0D1117?style=for-the-badge&logo=Numpy&logoColor=blue)
+![Pandas](https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=Pandas&logoColor=purple)
+
+<!--
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117.svg?style=for-the-badge&logo=scikit-learn&logoColor=orange)
+![SciPy](https://img.shields.io/badge/SciPy-0D1117.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![OpenCV](https://img.shields.io/badge/opencv-0D1117.svg?style=for-the-badge&logo=opencv&logoColor=green)
+![Go](https://img.shields.io/badge/go-0d1117.svg?style=for-the-badge&logo=go&logoColor=2300ADD8)
+![Java](https://img.shields.io/badge/java-0d1117.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
+![Scala](https://img.shields.io/badge/scala-0d1117.svg?style=for-the-badge&logo=scala&logoColor=DC322F)
+-->
 
 </details>
 <details> <summary> 📊 GitHub Stats </summary>
