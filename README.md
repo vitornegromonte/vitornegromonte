@@ -7,7 +7,8 @@
 - 🎓 Statistics undergraduate student at Federal University of Pernambuco (UFPE)
 - 🔬 Data Science Enthusiast
 - 🧠 I do research in neurodiversity and accessibility @ [SCIOT-UFPE](https://www.cin.ufpe.br/~sciot/)
-- 🌱 Currently learning [Go}(https://github.com/vitornegromonte?tab=repositories&q=&type=&language=go&sort=stargazers) and improving my knowledge of Python
+- 🌱 Currently learning [Go](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=go&sort=stargazers) and improving my knowledge of Python
+  
 </div>
 
 <div>
