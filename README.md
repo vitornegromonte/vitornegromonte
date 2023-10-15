@@ -3,7 +3,7 @@
 <div style = 'font-size: 18px'>
 
 - 💬 Pronouns: he/him
-- 😄 I'm 20
+- 😄 I'm 20 y
 - 🎓 Statistics undergraduate student at Federal University of Pernambuco (UFPE)
 - 🔬 Data Science Enthusiast
 - 🧠 I do research in Human-Computer Interaction (HCI), with a focus on accessibility for autistic individuals @[SCIOT-INES](https://www.cin.ufpe.br/~sciot/)
