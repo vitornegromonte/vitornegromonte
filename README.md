@@ -30,14 +30,15 @@
 ![NumPy](http://img.shields.io/badge/numpy-0D1117?style=for-the-badge&logo=Numpy&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=Pandas&logoColor=654FF0)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117.svg?style=for-the-badge&logo=scikit-learn&logoColor=orange)
+![Pytorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![SciPy](https://img.shields.io/badge/SciPy-0D1117.svg?style=for-the-badge&logo=scipy&logoColor=654FF0)
 ![Plotly](https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=777BB4)
+
 <!--
 ![OpenCV](https://img.shields.io/badge/opencv-0D1117.svg?style=for-the-badge&logo=opencv&logoColor=green)
 ![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=239120)
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Pytorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 -->
 
 <!--
