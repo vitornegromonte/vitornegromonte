@@ -6,8 +6,7 @@
 - 😄 I'm 20 y
 - 🎓 Statistics undergraduate student at Federal University of Pernambuco (UFPE)
 - 🔬 Data Scientist
-- 🧠 I do research in Human-Computer Interaction (HCI), with a focus on accessibility for autistic individuals @[SCIOT-INES](https://www.cin.ufpe.br/~sciot/) and in Generative AI @[Geraia](https://github.com/geraia/)
-- 🌱 Trying to lear some [Go](https://github.com/vitornegromonte?tab=repositories&q=&type=&language=go&sort=stargazers) and improving my knowledge of Python and DS/ML
+- 🧠 I do research in Human-Computer Interaction (HCI), with a focus on accessibility for autistic individuals @[SCIOT-INES](https://www.cin.ufpe.br/~sciot/) and in Generative AI @[Geraia](https://instagram.com/geraiaverso/)
   
 </div>
 
