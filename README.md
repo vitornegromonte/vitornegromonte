@@ -7,6 +7,7 @@
 - 🎓 Statistics undergraduate student at Federal University of Pernambuco (UFPE)
 - 🔬 Data Scientist
 - 🧠 Artificial Intelligence researcher at [Geraia](https://instagram.com/geraiaverso/) research group
+- 🚀 Co-founder and Outreach Director at [Ligia](https://instagram.com/ligia.ufpe/) - UFPE's AI club
   
 </div>
 
@@ -22,6 +23,7 @@
   
 ### AI/ML engineering
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python)
+![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r)
 ![NumPy](http://img.shields.io/badge/numpy-0D1117?style=for-the-badge&logo=Numpy&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/pandas-0D1117?style=for-the-badge&logo=Pandas&logoColor=654FF0)
 ![Plotly](https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=777BB4)
@@ -33,13 +35,6 @@
 
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-0d1117.svg?style=for-the-badge&logo=Keras&logoColor=%23D00000)
-
-<!--
-### Other languages
-![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r)
-![C](https://img.shields.io/badge/c-0d1117.svg?style=for-the-badge&logo=c&logoColor=00599C)
-![C++](https://img.shields.io/badge/C++-0d1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
--->
 
 </details>
 <details> <summary> 📊 GitHub Stats </summary>
