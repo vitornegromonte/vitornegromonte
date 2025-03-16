@@ -42,7 +42,7 @@
 <a href="https://github.com/vitornegromonte">
   
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=vitornegromonte&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitornegromonte&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitornegromonte&layout=compact&langs_count=7&theme=github_dark&hide_border=true&count_private=true"/>
 </a>
 </details>
 </div>
