@@ -4,24 +4,27 @@
 <div style = 'font-size: 18px'>
 
 ### 🌱 About
-- 🎓 Statistics undergraduate student at Federal University of Pernambuco (UFPE)
-- 🔬 Data Scientist
-- 🧠 Artificial Intelligence researcher at [Geraia](https://instagram.com/geraiaverso/) research group
-- 🚀 Co-founder and Outreach Director at [Ligia](https://instagram.com/ligia.ufpe/) - UFPE's AI club
+- 🎓 Info. Sys. undergraduate student at Federal University of Pernambuco (UFPE)
+- 🔬 Data Scientist and Machine Learning Researcher
+- 🧠 Co-founder and Outreach Director at [Ligia](https://instagram.com/ligia.ufpe/) - UFPE's AI Academic League 
   
 </div>
 
 <div>
 
-### 📫 Reach me
-  
-[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitornegromonte/)
-[![E-mail](https://img.shields.io/badge/mail_me-0D1117?style=for-the-badge&logo=gmail)](mailto:vnco@cin.ufpe.br)
+<details> 
+<summary> 📫 Reach me </summary>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/vitornegromonte/)
+[![E-mail](https://img.shields.io/badge/mail_me-0D1117?style=for-the-badge&logo=gmail)](mailto:contato.vnco@gmail.com)
+[![HuggingFace](https://img.shields.io/badge/-HuggingFace-0D1117?style=for-the-badge&logo=HuggingFace&logoColor=FDEE21)]()
+[![Kaggle](https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=Kaggle&logoColor=20BEFF)]()
+
+</details>
 
 <details>
 <summary>👨‍💻 Tech stack </summary>
   
-### AI/ML engineering
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r)
 ![NumPy](http://img.shields.io/badge/numpy-0D1117?style=for-the-badge&logo=Numpy&logoColor=blue)
