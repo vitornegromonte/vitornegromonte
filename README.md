@@ -3,7 +3,7 @@
 
 - Info. Sys. undergraduate student at Federal University of Pernambuco (UFPE)
 - Data Scientist and Machine Learning Researcher
-- Co-founder and President at [Ligia](https://instagram.com/ligia.ufpe/) - UFPE's AI Academic League
+- Co-founder and President at [Ligia](https://github.com/ligia-ufpe) - UFPE's AI Academic League
 
 <div align="center" style="width:100%">
 
@@ -25,3 +25,5 @@
     </tr>
   </table>
 </div>
+
+If you want more info check my [portfolio](https://vitornegromonte.github.io./)
